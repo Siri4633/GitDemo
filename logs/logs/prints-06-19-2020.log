@@ -1,0 +1,285 @@
+00:29:22.674 [main] INFO  resources.Base - Driver is initialized for 3rd TC
+00:29:34.737 [main] INFO  resources.Base - CDwindow-5B110B25F44A5905EAEE209DD35BF81C
+00:29:35.834 [main] INFO  resources.Base - CDwindow-E05A69613E509F5A91A67D4275395C83
+00:29:37.670 [main] INFO  resources.Base - CDwindow-3F930EB5F2BA9B662D7399D83D3598BD
+00:29:38.802 [main] INFO  resources.Base - CDwindow-F5EBFC54A9185E86A9EC7C1948604C1E
+00:29:40.568 [main] INFO  resources.Base - CDwindow-4957607C55325031B339AC0B4EDB4820
+00:29:41.941 [main] INFO  resources.Base - CDwindow-EE156661089CADBC86FE94B1ECA7768F
+00:29:43.676 [main] INFO  resources.Base - CDwindow-265DC43039FAFEAB34425076796C9F2E
+00:29:44.837 [main] INFO  resources.Base - CDwindow-538EC3399C423EBDA6B88EF0C7D2E0C4
+00:29:47.545 [main] INFO  resources.Base - CDwindow-B9FC1363FDEAC00D1FFFF5CFE0F8A7D2
+00:29:49.225 [main] INFO  resources.Base - CDwindow-7C41C6781C6CE933EE274AA281A78A4D
+00:29:50.989 [main] INFO  resources.Base - CDwindow-E0316BD06009BACE7E8FB999260A548D
+00:29:53.270 [main] INFO  resources.Base - CDwindow-02C549AD8274128A69486B2C5C6B2E42
+00:29:55.070 [main] INFO  resources.Base - CDwindow-FB09D5E19DA8C495D2929149DC2EE8D4
+00:29:56.232 [main] INFO  resources.Base - CDwindow-2F0917383A4D08E7F3825182AF31F5B2
+00:29:57.406 [main] INFO  resources.Base - CDwindow-82C2F4303DF9643447C00023EFCB28C4
+00:29:58.777 [main] INFO  resources.Base - CDwindow-9638F5C54A2020C853D4078B6FD85B2E
+00:29:59.354 [main] INFO  resources.Base - Driver is closed
+00:31:30.333 [main] INFO  resources.Base - Driver is initialized for 2rd TC
+00:31:42.671 [main] INFO  resources.Base - PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking
+00:31:43.869 [main] INFO  resources.Base - IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo
+00:31:46.248 [main] INFO  resources.Base - Goibibo Reviews and Ratings – Share your experience, Post Reviews and Ratings
+00:31:47.484 [main] INFO  resources.Base - Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo
+00:31:48.836 [main] INFO  resources.Base - Goibibo route planner - Find best routes, maps and distances
+00:31:49.986 [main] INFO  resources.Base - Goibibo Ask – Largest Indian Travel Community
+00:31:51.266 [main] INFO  resources.Base - India Travel Guide, Destination Planner, Places to Visit in India-Goibibo
+00:31:52.476 [main] INFO  resources.Base - Goibibo Mobile – Download app for iOS, Android and Windows Phone
+00:31:55.759 [main] INFO  resources.Base - Cheap International Flight Tickets, International Flights Booking - Goibibo
+00:31:56.990 [main] INFO  resources.Base - 
+00:31:58.211 [main] INFO  resources.Base - Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking
+00:32:00.513 [main] INFO  resources.Base - IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation
+00:32:01.692 [main] INFO  resources.Base - Bus Booking - Online Bus Ticket Booking of all Bus types at best prices
+00:32:03.019 [main] INFO  resources.Base - Gostays Branded Hotels, Affordable Budget Hotels – Goibibo
+00:32:04.280 [main] INFO  resources.Base - Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+00:32:05.648 [main] INFO  resources.Base - Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo
+00:32:06.169 [main] INFO  resources.Base - Driver is closed
+00:41:33.529 [main] INFO  resources.Base - Driver is initialized for 1ST TC
+00:41:37.909 [main] INFO  resources.Base - Driver is initialized for 2nd TC
+00:41:42.591 [main] INFO  resources.Base - Driver is initialized for 3rd TC
+00:41:47.442 [main] INFO  resources.Base - Driver is initialized for 5th TC
+00:41:52.486 [main] INFO  resources.Base - Driver is initialized for 6th TC
+00:41:57.753 [main] INFO  resources.Base - Driver is initialized for 7th TC
+00:42:03.169 [main] INFO  resources.Base - Driver is initialized for 9th TC
+00:42:08.668 [main] INFO  resources.Base - Driver is initialized for 11th TC
+00:42:18.515 [main] INFO  resources.Base - logged In
+00:42:32.695 [main] INFO  resources.Base - PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking  CDwindow-CED13219F17BE4BEAA7430C88A2D2A50
+00:42:33.837 [main] INFO  resources.Base - IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo  CDwindow-FBA3E937F253DE3BCF72AA8E82A25A3A
+00:42:36.453 [main] INFO  resources.Base - Goibibo Reviews and Ratings – Share your experience, Post Reviews and Ratings  CDwindow-B0ABE2A103479D612B87D4BF706E40D0
+00:42:37.813 [main] INFO  resources.Base - Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo  CDwindow-45A818B8099B9535731453E323FC2942
+00:42:39.160 [main] INFO  resources.Base - Goibibo route planner - Find best routes, maps and distances  CDwindow-7BBE4A813D0FC2E76935D46567B77E3B
+00:42:41.546 [main] INFO  resources.Base - Goibibo Ask – Largest Indian Travel Community  CDwindow-A4045E72D2241F71C70ED3F6CB135E61
+00:42:42.746 [main] INFO  resources.Base - India Travel Guide, Destination Planner, Places to Visit in India-Goibibo  CDwindow-9E384CC61EE6EA9EE398B78BE7A94B64
+00:42:43.946 [main] INFO  resources.Base - Goibibo Mobile – Download app for iOS, Android and Windows Phone  CDwindow-BD861961212725FDD433D82E5FD252C2
+00:42:49.888 [main] INFO  resources.Base - Cheap International Flight Tickets, International Flights Booking - Goibibo  CDwindow-4819F69C7BFDB09D307C9FF415359472
+00:42:52.158 [main] INFO  resources.Base -   CDwindow-FD0C152B932DAA83335C93DE34FAAA1D
+00:42:54.700 [main] INFO  resources.Base - Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking  CDwindow-A8CB51E681F0AF01A5A20C236207BF58
+00:43:00.129 [main] INFO  resources.Base - IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation  CDwindow-844B1680814CD3F7798D377CD065679B
+00:43:03.508 [main] INFO  resources.Base - Bus Booking - Online Bus Ticket Booking of all Bus types at best prices  CDwindow-DE41EA8EAD1F05173330688CF378F59B
+00:43:08.241 [main] INFO  resources.Base - Gostays Branded Hotels, Affordable Budget Hotels – Goibibo  CDwindow-0448BD565501B1FEFBC90584163EE3FF
+00:43:10.407 [main] INFO  resources.Base - Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo  CDwindow-F39A5B02FC7DA2CAC928CFD5F31E63AE
+00:43:13.512 [main] INFO  resources.Base - Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo  CDwindow-B9FF72535FFF5FB235D4B6751D879E9E
+00:43:23.523 [main] INFO  resources.Base - navigated successfully
+00:43:35.484 [main] INFO  resources.Base - We are here to help, Manage your booking or raise concern against your booking
+00:43:46.383 [main] INFO  resources.Base - Succesfully validated the text message
+00:44:07.125 [main] INFO  resources.Base - Know Your Credit Shell Details  CDwindow-154D759CC221D0D5186ACBFA16956926
+00:44:10.119 [main] INFO  resources.Base - Hotels Near Me: Get Best Deals on Hotels near your location – Goibibo  CDwindow-3ECB3058CF7568D004C587748CED05F1
+00:44:18.379 [main] INFO  resources.Base - Top 633 Hotel Chains in India - Goibibo  CDwindow-CDCFFCBCBA569283B07957F1D10B3516
+00:44:19.536 [main] INFO  resources.Base - Airports in India, List of India Airports - Goibibo  CDwindow-0A6F35DB6E006D0C1FCF43F746569C41
+00:44:20.683 [main] INFO  resources.Base - City Bus Route | City Bus Service, Booking | Book Bus Tickets - Goibibo  CDwindow-C5C2B9BBEE99074E4638A0FC89914339
+00:44:25.267 [main] INFO  resources.Base - Gostays Branded Hotels, Affordable Budget Hotels – Goibibo  CDwindow-39A5B8D2097AA7E1E2D18BA3E1C059FB
+00:44:26.481 [main] INFO  resources.Base - Flight Schedule | Flight Status India | Flight Timings - Goibibo  CDwindow-211BFFA651FB0B5016DFCE0DAB4FE253
+00:44:27.665 [main] INFO  resources.Base - IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo  CDwindow-ACE3FDC07069E4E69C12F38FE3B93894
+00:44:30.100 [main] INFO  resources.Base - Cheap Flights, Cheap Air Tickets at Lowest Price – Goibibo  CDwindow-4E5A091215619A9FCA5242481399F5A7
+00:44:31.696 [main] INFO  resources.Base - Best places to visit in the world, World Travel Guide – Goibibo  CDwindow-3B57DB2E5952DE6B0333C5091A5FDDFC
+00:44:33.102 [main] INFO  resources.Base - City Airline Routes  CDwindow-804ACD941A1ECAC6CB00C36488FA91FC
+00:44:34.269 [main] INFO  resources.Base - Airport in India, Domestic and International Airports - Goibibo  CDwindow-8D2EF77BDCD19EBECB41E740AD1C78CD
+00:44:36.375 [main] INFO  resources.Base - Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo  CDwindow-04F00928F2965E58AEE9BACB6F380C17
+00:44:38.046 [main] INFO  resources.Base - Airline Tickets, Book Indian Airlines and International Airlines @ Goibibo  CDwindow-8A5C15E6395F31A516094674F75B7EB8
+00:44:40.262 [main] INFO  resources.Base - Top Hotels in India: Book best Indian hotels at cheap price from Goibibo  CDwindow-22D8C5A23EE2E8F6C17FA150C951E9AE
+00:44:41.454 [main] INFO  resources.Base - Airport Taxi, Book Airport Cabs with upto 10% off from Goibibo  CDwindow-402F4121EF3FF5F104097D12F00335BE
+00:44:42.579 [main] INFO  resources.Base - PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking  CDwindow-07182E94E5F35C01C4E7431104D86C8C
+00:44:43.785 [main] INFO  resources.Base - Bus Routes | Bus Schedule for City to City Bus Service - Goibibo  CDwindow-48BD7ACCDBB4C5383CD2A734558559CC
+00:44:45.007 [main] INFO  resources.Base - Backstage  CDwindow-4A18909103C8D1BB4B708EE4948C467E
+00:44:47.423 [main] INFO  resources.Base - Goibibo - YouTube  CDwindow-28594F85146006372FA66DB69623E5D3
+00:44:48.803 [main] INFO  resources.Base - Goibibo Mobile – Download app for iOS, Android and Windows Phone  CDwindow-EC99126A72FFB91297A3FE961BF1F67C
+00:44:50.171 [main] INFO  resources.Base - Csr Policy  CDwindow-21E1564B937296B5D2F7D0E8DD4A3726
+00:44:51.329 [main] INFO  resources.Base - ibibo Group- Career at ibibo  CDwindow-CEBC01400A689224C123F2B4B2B82C8F
+00:44:52.417 [main] INFO  resources.Base - Goibibo  CDwindow-FDDF1FAC8C9E7266EF3FE8A1F57F60BA
+00:44:53.923 [main] INFO  resources.Base - privacy policy | Goibibo  CDwindow-A53312E34DE456BC3F49D5C89F137B54
+00:44:55.424 [main] INFO  resources.Base - User Agreement  CDwindow-AC40072323016A23B5539369657AA402
+00:44:56.748 [main] INFO  resources.Base - Terms of Services  CDwindow-829A6216E232723FCDCB210B2A8FCE19
+00:44:58.147 [main] INFO  resources.Base - About Goibibo - Fastest Growing Travel Company - www.goibibo.com  CDwindow-509C4330E95BAA3C9EDF685A52C1AF1B
+00:44:59.398 [main] INFO  resources.Base - India Travel Guide, Destination Planner, Places to Visit in India-Goibibo  CDwindow-AE5A242EC756D97DF53F097761344992
+00:45:00.533 [main] INFO  resources.Base - Goibibo route planner - Find best routes, maps and distances  CDwindow-622B21A43ECA972B44F56AEE6FAB07D2
+00:45:01.977 [main] INFO  resources.Base - IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation  CDwindow-2BD1AEFCC1A2C3FD7BE02BF97648DF38
+00:45:03.297 [main] INFO  resources.Base - Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking  CDwindow-90C31013FB7868FF4034139FE014A069
+00:45:04.531 [main] INFO  resources.Base - Bus Booking - Online Bus Ticket Booking of all Bus types at best prices  CDwindow-FB440CE036CC81FC1AADEFCA533F0B64
+00:45:05.946 [main] INFO  resources.Base - Cheap International Flight Tickets, International Flights Booking - Goibibo  CDwindow-3FBB4D3E5FB940B3CC5210D7C3126C24
+00:45:07.555 [main] INFO  resources.Base - Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo  CDwindow-778CFC8313DABA338EBA607A5A6C1928
+00:45:08.801 [main] INFO  resources.Base - International Hotel booking ,Best Deals Worldwide Hotels-Goibibo  CDwindow-934C584F7984181E87CA196F9BDC8D3B
+00:45:10.097 [main] INFO  resources.Base - Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo  CDwindow-444F06CA29E0DABD0B136153FCF827E9
+00:45:25.630 [main] INFO  resources.Base - Goibibo Flight Offers in Jun 2020, Discount Coupons on Flight Ticket Booking  CDwindow-2B92F7E9CF9C04F16077E47BE5F3F2F4
+00:45:34.351 [main] INFO  resources.Base - Goibibo Flight Offers in Jun 2020, Discount Coupons on Flight Ticket Booking  CDwindow-A9883C999080E4156D26791EB109FDD9
+00:45:36.940 [main] INFO  resources.Base - Driver is closed
+00:45:39.493 [main] INFO  resources.Base - Driver is closed
+00:45:41.579 [main] INFO  resources.Base - Driver is closed
+00:45:43.682 [main] INFO  resources.Base - Driver is closed
+00:45:46.043 [main] INFO  resources.Base - Driver is closed
+00:45:46.993 [main] INFO  resources.Base - Driver is closed
+00:45:49.118 [main] INFO  resources.Base - Driver is closed
+00:45:49.952 [main] INFO  resources.Base - Driver is closed
+00:49:00.772 [main] INFO  resources.Base - Driver is initialized for 1ST TC
+00:49:05.579 [main] INFO  resources.Base - Driver is initialized for 2nd TC
+00:49:17.091 [TestNG-test=ValidatingCredits Test-1] INFO  resources.Base - logged In
+00:49:22.631 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking  CDwindow-2144D8D4CEC214AB71AC34417134C5FC
+00:49:23.876 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo  CDwindow-CBB7495F64EA9DACC650FAF278B47077
+00:49:25.984 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Goibibo Reviews and Ratings – Share your experience, Post Reviews and Ratings  CDwindow-26F23D2453ED17CF1F640F72FA77C137
+00:49:27.209 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo  CDwindow-56D04AF513391E60D64759AF79F2BF9F
+00:49:28.581 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Goibibo route planner - Find best routes, maps and distances  CDwindow-98239C2BA87699D7F354916471B48130
+00:49:29.997 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Goibibo Ask – Largest Indian Travel Community  CDwindow-E3BBA57E2978BA420A2BA2EE12FC2342
+00:49:31.666 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - India Travel Guide, Destination Planner, Places to Visit in India-Goibibo  CDwindow-EA461CF3ADC2A01E162DE68898C6635D
+00:49:32.840 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Goibibo Mobile – Download app for iOS, Android and Windows Phone  CDwindow-83B9983A5A0DADDE7B95B443C5D51350
+00:49:37.076 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Cheap International Flight Tickets, International Flights Booking - Goibibo  CDwindow-A1C305E15E973A56516AE9E7F5B58E16
+00:49:39.139 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base -   CDwindow-60F808A1D8F93BEA0B3B0B6E2063867F
+00:49:40.594 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking  CDwindow-537C6CA4F8CF7F772B0110EF6D8E95AD
+00:49:42.956 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation  CDwindow-29E73317B67A751C297AFCD17BFACF4B
+00:49:45.121 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Bus Booking - Online Bus Ticket Booking of all Bus types at best prices  CDwindow-5E712695104AE936E2A6AB85511627A9
+00:49:46.518 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Gostays Branded Hotels, Affordable Budget Hotels – Goibibo  CDwindow-624299BB8A1A5058927B927BE28809DE
+00:49:47.641 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo  CDwindow-E7158B1405C93391CE41301489CBB466
+00:49:49.213 [TestNG-test=ValidatingCredits Test-2] INFO  resources.Base - Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo  CDwindow-C409C70EEF7D14FAA77279EC295FEA04
+00:49:51.660 [main] INFO  resources.Base - Driver is closed
+00:49:52.276 [main] INFO  resources.Base - Driver is closed
+01:07:54.825 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 1ST TC
+01:07:59.366 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 2nd TC
+01:08:10.169 [TestNG-tests-1] INFO  resources.Base - logged In
+01:08:24.669 [TestNG-tests-1] INFO  resources.Base - PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking  CDwindow-EE9A43D34037933FC196C806951FCB04
+01:08:25.823 [TestNG-tests-1] INFO  resources.Base - IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo  CDwindow-C39ABF46AA022645BFF2A4F36ADD4515
+01:08:30.165 [TestNG-tests-1] INFO  resources.Base - Goibibo Reviews and Ratings – Share your experience, Post Reviews and Ratings  CDwindow-903CFF7152C31F923B12067AA5028365
+01:08:31.822 [TestNG-tests-1] INFO  resources.Base - Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo  CDwindow-F10A016366A5903847C2D0117FA1E841
+01:08:33.167 [TestNG-tests-1] INFO  resources.Base - Goibibo route planner - Find best routes, maps and distances  CDwindow-3F78DBEAEF1A0F762B1DA5F4AD87EB6C
+01:08:34.908 [TestNG-tests-1] INFO  resources.Base - Goibibo Ask – Largest Indian Travel Community  CDwindow-65DC10EBEA3C267250529D79D2129C3D
+01:08:36.315 [TestNG-tests-1] INFO  resources.Base - India Travel Guide, Destination Planner, Places to Visit in India-Goibibo  CDwindow-3A3ADA6A97ACE55E759092DE4C4B3F9C
+01:08:37.424 [TestNG-tests-1] INFO  resources.Base - Goibibo Mobile – Download app for iOS, Android and Windows Phone  CDwindow-09547C6174FA51E2D4EE52921291A789
+01:08:39.317 [TestNG-tests-1] INFO  resources.Base - Cheap International Flight Tickets, International Flights Booking - Goibibo  CDwindow-2865F941FE9106F8204412BC78C7CB9D
+01:08:40.757 [TestNG-tests-1] INFO  resources.Base -   CDwindow-E3F8360671B5AD417221DA4601956318
+01:08:42.099 [TestNG-tests-1] INFO  resources.Base - Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking  CDwindow-9CF5B3236A269A929508E17359FF7183
+01:08:44.059 [TestNG-tests-1] INFO  resources.Base - IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation  CDwindow-B5B3DBB6E41B78CCDB26580E80BE48B0
+01:08:45.515 [TestNG-tests-1] INFO  resources.Base - Bus Booking - Online Bus Ticket Booking of all Bus types at best prices  CDwindow-E5B5D9DC9B3731EE05B265F5F389A4FA
+01:08:46.746 [TestNG-tests-1] INFO  resources.Base - Gostays Branded Hotels, Affordable Budget Hotels – Goibibo  CDwindow-5CC294A0792395D7E03C27CDEBF7D1C1
+01:08:47.919 [TestNG-tests-1] INFO  resources.Base - Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo  CDwindow-93D7D776D46A496277C92BCF37BA5208
+01:08:49.383 [TestNG-tests-1] INFO  resources.Base - Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo  CDwindow-D77D7AE85EB254BB2C4D33AE6410685B
+01:08:49.862 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+01:08:50.399 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+01:26:12.969 [main] INFO  resources.Base - Driver is initialized for 5th TC
+01:26:23.492 [main] INFO  resources.Base - Driver is closed
+02:03:20.983 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 1ST TC
+02:03:25.160 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 2nd TC
+02:03:29.599 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 3rd TC
+02:03:34.732 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 5th TC
+02:03:39.429 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 6th TC
+02:03:44.001 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 7th TC
+02:03:49.095 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 9th TC
+02:03:53.846 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 11th TC
+02:04:10.016 [TestNG-tests-1] INFO  resources.Base - logged In
+02:04:23.046 [TestNG-tests-1] INFO  resources.Base - PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking  CDwindow-F8D06ACE780DF286F4F1C211B30BE2D1
+02:04:24.664 [TestNG-tests-1] INFO  resources.Base - IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo  CDwindow-227806D7AC2AFB05F25A2987ACE342FD
+02:04:26.884 [TestNG-tests-1] INFO  resources.Base - Goibibo Reviews and Ratings – Share your experience, Post Reviews and Ratings  CDwindow-F007B51B9D118743B5F2BE90BCB318D4
+02:04:28.075 [TestNG-tests-1] INFO  resources.Base - Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo  CDwindow-40BBA4C518672204553E8688444FB3CE
+02:04:29.513 [TestNG-tests-1] INFO  resources.Base - Goibibo route planner - Find best routes, maps and distances  CDwindow-ED0936ECDE8E7D82CCD4B1346DD02168
+02:04:30.846 [TestNG-tests-1] INFO  resources.Base - Goibibo Ask – Largest Indian Travel Community  CDwindow-B69803481AEE2EF71084C2CB12EE6BD5
+02:04:32.146 [TestNG-tests-1] INFO  resources.Base - India Travel Guide, Destination Planner, Places to Visit in India-Goibibo  CDwindow-DAF63E8258900EB1E9E3F89C6F7924A6
+02:04:33.243 [TestNG-tests-1] INFO  resources.Base - Goibibo Mobile – Download app for iOS, Android and Windows Phone  CDwindow-4F9D71434EECF19535CBFE810DC72696
+02:04:38.087 [TestNG-tests-1] INFO  resources.Base - Cheap International Flight Tickets, International Flights Booking - Goibibo  CDwindow-FD1C11183E45F0DE298C18B12D3EE867
+02:04:40.163 [TestNG-tests-1] INFO  resources.Base -   CDwindow-8251E3C0FA3B7AEB37414F7BC9334089
+02:04:42.100 [TestNG-tests-1] INFO  resources.Base - Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking  CDwindow-310A6C04C1B3C1903976430113DDE164
+02:04:45.600 [TestNG-tests-1] INFO  resources.Base - IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation  CDwindow-73055738469419CBB1594AC437F95604
+02:04:48.116 [TestNG-tests-1] INFO  resources.Base - Bus Booking - Online Bus Ticket Booking of all Bus types at best prices  CDwindow-4729A0C136314EBD765DB05C5C6E533A
+02:04:49.486 [TestNG-tests-1] INFO  resources.Base - Gostays Branded Hotels, Affordable Budget Hotels – Goibibo  CDwindow-9216ABFCF249AEB4D90EB42EEC100890
+02:04:50.759 [TestNG-tests-1] INFO  resources.Base - Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo  CDwindow-6151149591B6EEBDEAE88F53B18CBA88
+02:04:52.087 [TestNG-tests-1] INFO  resources.Base - Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo  CDwindow-DEB6841E1E61A31AD897F5ABD9D3CF70
+02:05:02.859 [TestNG-tests-1] INFO  resources.Base - navigated successfully
+02:05:41.683 [TestNG-tests-1] INFO  resources.Base - Succesfully validated the text message
+02:06:11.749 [TestNG-tests-1] INFO  resources.Base - Know Your Credit Shell Details  CDwindow-4E126B67C064E8635122B5C787C5E592
+02:06:14.532 [TestNG-tests-1] INFO  resources.Base - Hotels Near Me: Get Best Deals on Hotels near your location – Goibibo  CDwindow-35BB088BC9FAD199B097C78864818AF6
+02:06:15.797 [TestNG-tests-1] INFO  resources.Base - Top 633 Hotel Chains in India - Goibibo  CDwindow-9596202A80A6AF643113F70873913379
+02:06:16.933 [TestNG-tests-1] INFO  resources.Base - Airports in India, List of India Airports - Goibibo  CDwindow-1B2CE2A02987F58633A4449E5CAAAD0A
+02:06:18.134 [TestNG-tests-1] INFO  resources.Base - City Bus Route | City Bus Service, Booking | Book Bus Tickets - Goibibo  CDwindow-3D2BE807369519283761FF057F13BBE8
+02:06:19.757 [TestNG-tests-1] INFO  resources.Base - Gostays Branded Hotels, Affordable Budget Hotels – Goibibo  CDwindow-3AE3BE8A1B8FA5E47112416C2EEAA9E5
+02:06:20.886 [TestNG-tests-1] INFO  resources.Base - Flight Schedule | Flight Status India | Flight Timings - Goibibo  CDwindow-2704CD1EFA5E9390B9576DEBCBFA8DA8
+02:06:22.106 [TestNG-tests-1] INFO  resources.Base - IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo  CDwindow-2A1CDFF708C249D52687C86A1A1ABEC1
+02:06:23.236 [TestNG-tests-1] INFO  resources.Base - Cheap Flights, Cheap Air Tickets at Lowest Price – Goibibo  CDwindow-64596AACD89B8610F8B577D7BCEEC381
+02:06:24.497 [TestNG-tests-1] INFO  resources.Base - Best places to visit in the world, World Travel Guide – Goibibo  CDwindow-1A9513DA8C0BDD4C417E535E90E94D8D
+02:06:25.658 [TestNG-tests-1] INFO  resources.Base - City Airline Routes  CDwindow-8F2B1FE3C6AE46D36554C6C92BA51301
+02:06:26.891 [TestNG-tests-1] INFO  resources.Base - Airport in India, Domestic and International Airports - Goibibo  CDwindow-653C1380ABB7CCEB5462F1A08BB67E44
+02:06:28.153 [TestNG-tests-1] INFO  resources.Base - Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo  CDwindow-E60A7DF82A074782431B92D701E42DC4
+02:06:29.438 [TestNG-tests-1] INFO  resources.Base - Airline Tickets, Book Indian Airlines and International Airlines @ Goibibo  CDwindow-EB8BC729C5B82AA8EB0A026F10D3A97E
+02:06:30.953 [TestNG-tests-1] INFO  resources.Base - Top Hotels in India: Book best Indian hotels at cheap price from Goibibo  CDwindow-067871C8D1E9883652F48FF5CA19F91F
+02:06:32.137 [TestNG-tests-1] INFO  resources.Base - Airport Taxi, Book Airport Cabs with upto 10% off from Goibibo  CDwindow-3E99E7EAD979CC027F153269D3C0E08A
+02:06:33.440 [TestNG-tests-1] INFO  resources.Base - PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking  CDwindow-89C24DDC6DD41B399B72BCBB44955087
+02:06:34.643 [TestNG-tests-1] INFO  resources.Base - Bus Routes | Bus Schedule for City to City Bus Service - Goibibo  CDwindow-829C97061DB09C9A35E825B60B15CD76
+02:06:35.826 [TestNG-tests-1] INFO  resources.Base - Backstage  CDwindow-CBBDE0DA2B8B1CA3D623728633F84BD4
+02:06:37.003 [TestNG-tests-1] INFO  resources.Base - Goibibo - YouTube  CDwindow-23C4AB5C1679E4C5639DA62DBD5D6263
+02:06:38.161 [TestNG-tests-1] INFO  resources.Base - Goibibo Mobile – Download app for iOS, Android and Windows Phone  CDwindow-8FFF4ACE03AD7E52BD73B29EA56C4024
+02:06:39.371 [TestNG-tests-1] INFO  resources.Base - Csr Policy  CDwindow-4860E4ED8B43E4D089EB026A13876F9E
+02:06:40.756 [TestNG-tests-1] INFO  resources.Base - ibibo Group- Career at ibibo  CDwindow-AE7159304EF59483FC07E3FBC6DD6AEB
+02:06:41.964 [TestNG-tests-1] INFO  resources.Base - Goibibo  CDwindow-138EFE9B03C1D9EFCDADC39CF4E1BC70
+02:06:43.420 [TestNG-tests-1] INFO  resources.Base - privacy policy | Goibibo  CDwindow-672167DB47C0E41297D419572547809E
+02:06:44.684 [TestNG-tests-1] INFO  resources.Base - User Agreement  CDwindow-5C036278DA3C6B90ECA84427C7BFB60E
+02:06:46.003 [TestNG-tests-1] INFO  resources.Base - Terms of Services  CDwindow-1E1DA56CD556308AA66575F1693D0D5E
+02:06:47.111 [TestNG-tests-1] INFO  resources.Base - About Goibibo - Fastest Growing Travel Company - www.goibibo.com  CDwindow-49C1A8EA1DDD48BBD9061BECC5B164D5
+02:06:48.237 [TestNG-tests-1] INFO  resources.Base - India Travel Guide, Destination Planner, Places to Visit in India-Goibibo  CDwindow-F5F4D64870580554C986859BDF8DFC63
+02:06:49.331 [TestNG-tests-1] INFO  resources.Base - Goibibo route planner - Find best routes, maps and distances  CDwindow-703184B93B16C53800C9D509A9DF6C5D
+02:06:50.523 [TestNG-tests-1] INFO  resources.Base - IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation  CDwindow-F805F0DC1B98BF180BFC2ED8950CBDB3
+02:06:51.644 [TestNG-tests-1] INFO  resources.Base - Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking  CDwindow-3021F532C37858ABEB5296883702FC9E
+02:06:52.752 [TestNG-tests-1] INFO  resources.Base - Bus Booking - Online Bus Ticket Booking of all Bus types at best prices  CDwindow-11202AF2E3642A6CED3855CD6B657101
+02:06:53.888 [TestNG-tests-1] INFO  resources.Base - Cheap International Flight Tickets, International Flights Booking - Goibibo  CDwindow-36C680F219ECC4105B06BA630758AA9D
+02:06:55.057 [TestNG-tests-1] INFO  resources.Base - Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo  CDwindow-FFF7C4203DEF9F5F84750C921C24FC24
+02:06:56.166 [TestNG-tests-1] INFO  resources.Base - International Hotel booking ,Best Deals Worldwide Hotels-Goibibo  CDwindow-E1115E5E793C734B07457FEC52FC7433
+02:06:57.296 [TestNG-tests-1] INFO  resources.Base - Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo  CDwindow-51A384E2E12031DA45D5E94BF4478206
+02:07:24.479 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:07:25.188 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:07:27.335 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:07:29.679 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:07:32.082 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:07:32.854 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:07:34.952 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:07:35.663 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:10:00.127 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 1ST TC
+02:10:04.636 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 2nd TC
+02:10:09.739 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 3rd TC
+02:10:14.948 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 5th TC
+02:10:20.214 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 6th TC
+02:10:29.035 [TestNG-tests-1] INFO  resources.Base - logged In
+02:10:42.422 [TestNG-tests-1] INFO  resources.Base - PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking  CDwindow-3E9F09D3226457530B7B0B2613637BE7
+02:10:43.676 [TestNG-tests-1] INFO  resources.Base - IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo  CDwindow-A988BA99DB0C7E81D2C07227D69ADAB9
+02:10:46.096 [TestNG-tests-1] INFO  resources.Base - Goibibo Reviews and Ratings – Share your experience, Post Reviews and Ratings  CDwindow-25974CFB20D4C4644C22E95C9ED1CD71
+02:10:49.344 [TestNG-tests-1] INFO  resources.Base - Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo  CDwindow-27B2B5436D473F256D6825CEE81C574A
+02:10:50.617 [TestNG-tests-1] INFO  resources.Base - Goibibo route planner - Find best routes, maps and distances  CDwindow-4C3179C458287A3970404456B83E94ED
+02:10:51.909 [TestNG-tests-1] INFO  resources.Base - Goibibo Ask – Largest Indian Travel Community  CDwindow-44AEEE773F50EAA9CACB90B33B07FFBB
+02:10:59.456 [TestNG-tests-1] INFO  resources.Base - India Travel Guide, Destination Planner, Places to Visit in India-Goibibo  CDwindow-04201B08EF0204C3D91AE7846AA388D7
+02:11:01.507 [TestNG-tests-1] INFO  resources.Base - Goibibo Mobile – Download app for iOS, Android and Windows Phone  CDwindow-E8A18790A0B4C384F5EAFFB48CFE3410
+02:11:03.253 [TestNG-tests-1] INFO  resources.Base - Cheap International Flight Tickets, International Flights Booking - Goibibo  CDwindow-6FA0186DB1F5F7AE1AA83FBF67D1C833
+02:11:04.614 [TestNG-tests-1] INFO  resources.Base -   CDwindow-3941D2399BA6EF743F79F376EFE756BA
+02:11:05.827 [TestNG-tests-1] INFO  resources.Base - Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking  CDwindow-4FD5B5EA9BF8F19F26B3D4DACAD0CF65
+02:11:07.042 [TestNG-tests-1] INFO  resources.Base - IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation  CDwindow-23A92B643555DA123A0949F3AAF023F7
+02:11:08.296 [TestNG-tests-1] INFO  resources.Base - Bus Booking - Online Bus Ticket Booking of all Bus types at best prices  CDwindow-B31739AA1DC35DE226A842EB3B7B5CA5
+02:11:09.506 [TestNG-tests-1] INFO  resources.Base - Gostays Branded Hotels, Affordable Budget Hotels – Goibibo  CDwindow-F9504BCDF5B92C869A495B68820B2E24
+02:11:10.606 [TestNG-tests-1] INFO  resources.Base - Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo  CDwindow-55B438A43DE3679B5EEDEA9DAF589F2C
+02:11:11.726 [TestNG-tests-1] INFO  resources.Base - Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo  CDwindow-66EAF7DCA6E9B68D964C6C289F856832
+02:11:22.242 [TestNG-tests-1] INFO  resources.Base - navigated successfully
+02:11:43.202 [TestNG-tests-1] INFO  resources.Base - Succesfully validated the text message
+02:11:46.103 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:11:46.694 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:11:48.832 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:11:49.299 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:11:50.154 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:13:34.760 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 1ST TC
+02:13:39.454 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 2nd TC
+02:13:43.702 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 3rd TC
+02:13:48.171 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 5th TC
+02:13:53.009 [TestNG-tests-1] INFO  resources.Base - Driver is initialized for 6th TC
+02:14:02.257 [TestNG-tests-1] INFO  resources.Base - logged In
+02:14:15.384 [TestNG-tests-1] INFO  resources.Base - PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking  CDwindow-91D3B8BE077762D955A80E9AB20C18D2
+02:14:16.523 [TestNG-tests-1] INFO  resources.Base - IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo  CDwindow-C776A79427CFE0A87CB23FF357C6D221
+02:14:19.456 [TestNG-tests-1] INFO  resources.Base - Goibibo Reviews and Ratings – Share your experience, Post Reviews and Ratings  CDwindow-046205782D828DBE93D50624B1D50A67
+02:14:24.182 [TestNG-tests-1] INFO  resources.Base - Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo  CDwindow-DD25523C4088CCB7B95DF520686C9955
+02:14:27.114 [TestNG-tests-1] INFO  resources.Base - Goibibo route planner - Find best routes, maps and distances  CDwindow-229014F22224879EE6E86DEEBEBC95B1
+02:14:28.681 [TestNG-tests-1] INFO  resources.Base - Goibibo Ask – Largest Indian Travel Community  CDwindow-25CBC9FE617CFE6A0B438D43A9D2D4DC
+02:14:34.449 [TestNG-tests-1] INFO  resources.Base - India Travel Guide, Destination Planner, Places to Visit in India-Goibibo  CDwindow-87CBB73851144A4372AB046BBFEF092E
+02:14:37.609 [TestNG-tests-1] INFO  resources.Base - Goibibo Mobile – Download app for iOS, Android and Windows Phone  CDwindow-20BEAB5B587E15392E176BEC730BC99D
+02:14:39.543 [TestNG-tests-1] INFO  resources.Base - Cheap International Flight Tickets, International Flights Booking - Goibibo  CDwindow-116374AEEBAAD10F7890635247C44247
+02:14:41.083 [TestNG-tests-1] INFO  resources.Base -   CDwindow-6FE669BCA297CD0AA22F5E8C176785A0
+02:14:42.424 [TestNG-tests-1] INFO  resources.Base - Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking  CDwindow-69B6A3231999F0529587EE6F2905F960
+02:14:43.762 [TestNG-tests-1] INFO  resources.Base - IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation  CDwindow-A286F053B2025D8CC104EB0E796D5AA6
+02:14:45.000 [TestNG-tests-1] INFO  resources.Base - Bus Booking - Online Bus Ticket Booking of all Bus types at best prices  CDwindow-1C129880DD7D74BA9D4EED6176296E51
+02:14:46.372 [TestNG-tests-1] INFO  resources.Base - Gostays Branded Hotels, Affordable Budget Hotels – Goibibo  CDwindow-E7835C8A2C8813700349794E67C15B48
+02:14:47.490 [TestNG-tests-1] INFO  resources.Base - Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo  CDwindow-7676031BF63B4C2009295E33FF75C1FB
+02:14:48.603 [TestNG-tests-1] INFO  resources.Base - Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo  CDwindow-6E6E6E32DD77A47D1963722EFB9FFF6D
+02:14:59.229 [TestNG-tests-1] INFO  resources.Base - navigated successfully
+02:15:22.063 [TestNG-tests-1] INFO  resources.Base - Succesfully validated the text message
+02:15:24.496 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:15:27.002 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:15:29.113 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:15:31.268 [TestNG-tests-1] INFO  resources.Base - Driver is closed
+02:15:31.832 [TestNG-tests-1] INFO  resources.Base - Driver is closed

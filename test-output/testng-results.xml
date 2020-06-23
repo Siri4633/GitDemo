@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="234563" started-at="2020-06-23T01:47:12 IST" finished-at="2020-06-23T01:51:07 IST">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="16049" started-at="2020-06-23T01:47:12 IST" finished-at="2020-06-23T01:47:28 IST">
+      <class name="testcases.TC01">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.TC01@242b836]" name="initialize" is-config="true" duration-ms="5464" started-at="2020-06-23T01:47:12 IST" finished-at="2020-06-23T01:47:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loginValidation()[pri:1, instance:testcases.TC01@242b836]" name="loginValidation" duration-ms="8094" started-at="2020-06-23T01:47:17 IST" finished-at="2020-06-23T01:47:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC01@242b836]" name="tearDown" is-config="true" duration-ms="2435" started-at="2020-06-23T01:47:26 IST" finished-at="2020-06-23T01:47:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC01 -->
+    </test> <!-- Login Test -->
+    <test name="Header Test" duration-ms="37318" started-at="2020-06-23T01:47:29 IST" finished-at="2020-06-23T01:48:06 IST">
+      <class name="testcases.TC02">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.TC02@2794eab6]" name="initialize" is-config="true" duration-ms="4267" started-at="2020-06-23T01:47:29 IST" finished-at="2020-06-23T01:47:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="headerValidation()[pri:2, instance:testcases.TC02@2794eab6]" name="headerValidation" duration-ms="32384" started-at="2020-06-23T01:47:33 IST" finished-at="2020-06-23T01:48:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC02@2794eab6]" name="tearDown" is-config="true" duration-ms="643" started-at="2020-06-23T01:48:05 IST" finished-at="2020-06-23T01:48:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC02 -->
+    </test> <!-- Header Test -->
+    <test name="logo Test" duration-ms="38368" started-at="2020-06-23T01:48:06 IST" finished-at="2020-06-23T01:48:45 IST">
+      <class name="testcases.TC02">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.TC02@1c7696c6]" name="initialize" is-config="true" duration-ms="4167" started-at="2020-06-23T01:48:06 IST" finished-at="2020-06-23T01:48:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="headerValidation()[pri:2, instance:testcases.TC02@1c7696c6]" name="headerValidation" duration-ms="33680" started-at="2020-06-23T01:48:10 IST" finished-at="2020-06-23T01:48:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC02@1c7696c6]" name="tearDown" is-config="true" duration-ms="501" started-at="2020-06-23T01:48:44 IST" finished-at="2020-06-23T01:48:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC02 -->
+    </test> <!-- logo Test -->
+    <test name="caresupport Test" duration-ms="13624" started-at="2020-06-23T01:48:45 IST" finished-at="2020-06-23T01:48:58 IST">
+      <class name="testcases.TC03">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.TC03@71ba6d4e]" name="initialize" is-config="true" duration-ms="4455" started-at="2020-06-23T01:48:45 IST" finished-at="2020-06-23T01:48:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="logoValidation()[pri:3, instance:testcases.TC03@71ba6d4e]" name="logoValidation" duration-ms="8682" started-at="2020-06-23T01:48:49 IST" finished-at="2020-06-23T01:48:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC03@71ba6d4e]" name="tearDown" is-config="true" duration-ms="478" started-at="2020-06-23T01:48:58 IST" finished-at="2020-06-23T01:48:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC03 -->
+    </test> <!-- caresupport Test -->
+    <test name="earncredit Test" duration-ms="15388" started-at="2020-06-23T01:48:59 IST" finished-at="2020-06-23T01:49:14 IST">
+      <class name="testcases.TC05">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.TC05@3646a422]" name="initialize" is-config="true" duration-ms="4419" started-at="2020-06-23T01:48:59 IST" finished-at="2020-06-23T01:49:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="supportValidation()[pri:4, instance:testcases.TC05@3646a422]" name="supportValidation" duration-ms="8560" started-at="2020-06-23T01:49:03 IST" finished-at="2020-06-23T01:49:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- supportValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC05@3646a422]" name="tearDown" is-config="true" duration-ms="2405" started-at="2020-06-23T01:49:12 IST" finished-at="2020-06-23T01:49:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC05 -->
+    </test> <!-- earncredit Test -->
+    <test name="footer Test" duration-ms="83749" started-at="2020-06-23T01:49:14 IST" finished-at="2020-06-23T01:50:38 IST">
+      <class name="testcases.TC07">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.TC07@f0c8a99]" name="initialize" is-config="true" duration-ms="4272" started-at="2020-06-23T01:49:14 IST" finished-at="2020-06-23T01:49:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="footerValidation()[pri:6, instance:testcases.TC07@f0c8a99]" name="footerValidation" duration-ms="78773" started-at="2020-06-23T01:49:18 IST" finished-at="2020-06-23T01:50:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC07@f0c8a99]" name="tearDown" is-config="true" duration-ms="698" started-at="2020-06-23T01:50:37 IST" finished-at="2020-06-23T01:50:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC07 -->
+    </test> <!-- footer Test -->
+    <test name="offers Test" duration-ms="15070" started-at="2020-06-23T01:50:38 IST" finished-at="2020-06-23T01:50:53 IST">
+      <class name="testcases.TC09">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.TC09@6d4d66d2]" name="initialize" is-config="true" duration-ms="4480" started-at="2020-06-23T01:50:38 IST" finished-at="2020-06-23T01:50:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="offerWindows()[pri:7, instance:testcases.TC09@6d4d66d2]" name="offerWindows" duration-ms="7996" started-at="2020-06-23T01:50:42 IST" finished-at="2020-06-23T01:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- offerWindows -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC09@6d4d66d2]" name="tearDown" is-config="true" duration-ms="2592" started-at="2020-06-23T01:50:50 IST" finished-at="2020-06-23T01:50:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC09 -->
+    </test> <!-- offers Test -->
+    <test name="products Test" duration-ms="13446" started-at="2020-06-23T01:50:53 IST" finished-at="2020-06-23T01:51:07 IST">
+      <class name="testcases.TC11">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.TC11@1530c739]" name="initialize" is-config="true" duration-ms="4367" started-at="2020-06-23T01:50:53 IST" finished-at="2020-06-23T01:50:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="productWindows()[pri:8, instance:testcases.TC11@1530c739]" name="productWindows" duration-ms="8557" started-at="2020-06-23T01:50:57 IST" finished-at="2020-06-23T01:51:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productWindows -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC11@1530c739]" name="tearDown" is-config="true" duration-ms="520" started-at="2020-06-23T01:51:06 IST" finished-at="2020-06-23T01:51:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC11 -->
+    </test> <!-- products Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-23T00:56:08 IST" name="Suite" finished-at="2020-06-23T00:56:41 IST" duration-ms="32628">
+    <groups>
+    </groups>
+    <test started-at="2020-06-23T00:56:08 IST" name="a Test" finished-at="2020-06-23T00:56:24 IST" duration-ms="16264">
+      <class name="testcases.TC01">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testcases.TC01@2484f433]" started-at="2020-06-23T00:56:08 IST" name="initialize" finished-at="2020-06-23T00:56:14 IST" duration-ms="5409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="loginValidation()[pri:1, instance:testcases.TC01@2484f433]" started-at="2020-06-23T00:56:14 IST" name="loginValidation" finished-at="2020-06-23T00:56:22 IST" duration-ms="8718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC01@2484f433]" started-at="2020-06-23T00:56:22 IST" name="tearDown" finished-at="2020-06-23T00:56:24 IST" duration-ms="2098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC01 -->
+    </test> <!-- a Test -->
+    <test started-at="2020-06-23T00:56:25 IST" name="b Test" finished-at="2020-06-23T00:56:41 IST" duration-ms="15631">
+      <class name="testcases.TC03">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testcases.TC03@61861a29]" started-at="2020-06-23T00:56:25 IST" name="initialize" finished-at="2020-06-23T00:56:30 IST" duration-ms="4561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="logoValidation()[pri:3, instance:testcases.TC03@61861a29]" started-at="2020-06-23T00:56:30 IST" name="logoValidation" finished-at="2020-06-23T00:56:38 IST" duration-ms="8582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TC03@61861a29]" started-at="2020-06-23T00:56:38 IST" name="tearDown" finished-at="2020-06-23T00:56:41 IST" duration-ms="2487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC03 -->
+    </test> <!-- b Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+23:12:58.384 [main] INFO  resources.Base - Driver is initialized for 1ST TC
+23:13:03.638 [main] INFO  resources.Base - Driver is initialized for 3rd TC
+23:13:09.210 [main] INFO  resources.Base - Driver is initialized for 3rd TC
+23:13:14.041 [main] INFO  resources.Base - Driver is initialized for 5th TC
+23:13:19.655 [main] INFO  resources.Base - Driver is initialized for 6th TC
+23:13:24.908 [main] INFO  resources.Base - Driver is initialized for 7th TC
+23:13:30.028 [main] INFO  resources.Base - Driver is initialized for 9th TC
+23:13:34.953 [main] INFO  resources.Base - Driver is initialized for 11th TC
+23:15:18.144 [main] INFO  resources.Base - Succesfully validated the text message
+23:17:06.738 [main] INFO  resources.Base - Driver is closed
+23:17:09.235 [main] INFO  resources.Base - Driver is closed
+23:17:11.627 [main] INFO  resources.Base - Driver is closed
+23:17:14.031 [main] INFO  resources.Base - Driver is closed
+23:17:16.416 [main] INFO  resources.Base - Driver is closed
+23:17:18.595 [main] INFO  resources.Base - Driver is closed
+23:17:20.700 [main] INFO  resources.Base - Driver is closed
+23:17:22.818 [main] INFO  resources.Base - Driver is closed
